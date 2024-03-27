@@ -76,10 +76,19 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
 # Xujing
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,zh.annas-archive.org
+
+# 毛毛
+DOMAIN-SUFFIX,netflav5.com
+DOMAIN-SUFFIX,xbookcn.net
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,pornxx.cc
+DOMAIN-SUFFIX,91porn.com
