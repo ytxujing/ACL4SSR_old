@@ -1,4 +1,5 @@
-﻿! 国外域名
+! 筛选
+! 国外域名
 .eu
 .hk
 .jp
@@ -302,12 +303,10 @@ gvt1.com
 .bing.com
 .bingapis.com
 .microsoft.com
-.microsoftedgeinsider.com
 .microsoftapp.net
-.trafficmanager.ne
-
-! porn
-.91porn.com
+.microsoftedgeinsider.com
+.trafficmanager.net
+.*-msedge.net
 
 ! Steam
 .fanatical.com
@@ -384,7 +383,6 @@ gvt1.com
 .ip138.com
 .myteamspeak.com
 .notion.so
-.openai.com
 .ping.pe
 .reddit.com
 .sspanel.net
@@ -395,13 +393,41 @@ gvt1.com
 .v2ex.com
 .v2rayssr.com
 .synology.com
-.xbookcn.net
-.t66y.com
-.jable.tv
 .canva.com
+.bocchi.ooo
 .smallairport-first-sub.top
-.pornhub.com
 .apkpure.com
 .mega.nz
 .apkmirror.com
+.themoviedb.org
+.zh.annas-archive.org
+
+! 毛毛
+.netflav5.com
+.xbookcn.net
+.t66y.com
+.jable.tv
+.pornhub.com
+.missav.com
+.pornxx.cc
+
+! Openai
+.91porn.com
+.openai
+.auth0.com
+.challenges.cloudflare.com
+.client-api.arkoselabs.com
+.events.statsigapi.net
+.featuregates.org
+.identrust.com
+.intercom.io
+.intercomcdn.com
+.oaistatic.com
+.oaiusercontent.com
+.openai.com
+.openaiapi-site.azureedge.net
+.sentry.io
+.stripe.com
+
+!局域网
 192.168.123.0/24
