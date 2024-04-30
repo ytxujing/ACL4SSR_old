@@ -429,6 +429,8 @@ gvt1.com
 .themoviedb.org
 .zh.annas-archive.org
 .twitter.com
+.docker.com
+
 .economist.com
 
 !局域网
