@@ -366,6 +366,33 @@ gvt1.com
 .yt.be
 .ytimg.com
 
+! 毛毛
+.netflav5.com
+.xbookcn.net
+.t66y.com
+.jable.tv
+.pornhub.com
+.missav.com
+.pornxx.cc
+
+! Openai
+.91porn.com
+.openai
+.auth0.com
+.challenges.cloudflare.com
+.client-api.arkoselabs.com
+.events.statsigapi.net
+.featuregates.org
+.identrust.com
+.intercom.io
+.intercomcdn.com
+.oaistatic.com
+.oaiusercontent.com
+.openai.com
+.openaiapi-site.azureedge.net
+.sentry.io
+.stripe.com
+
 ! Xujing
 .1password.com
 .adguard.org
@@ -401,33 +428,8 @@ gvt1.com
 .apkmirror.com
 .themoviedb.org
 .zh.annas-archive.org
-
-! 毛毛
-.netflav5.com
-.xbookcn.net
-.t66y.com
-.jable.tv
-.pornhub.com
-.missav.com
-.pornxx.cc
-
-! Openai
-.91porn.com
-.openai
-.auth0.com
-.challenges.cloudflare.com
-.client-api.arkoselabs.com
-.events.statsigapi.net
-.featuregates.org
-.identrust.com
-.intercom.io
-.intercomcdn.com
-.oaistatic.com
-.oaiusercontent.com
-.openai.com
-.openaiapi-site.azureedge.net
-.sentry.io
-.stripe.com
+.twitter.com
+.economist.com
 
 !局域网
 192.168.123.0/24
