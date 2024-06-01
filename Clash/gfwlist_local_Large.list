@@ -27,9 +27,6 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
-# porn
-DOMAIN-SUFFIX,91porn.com
-
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
@@ -64,7 +61,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 
 # Youtube
-DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
@@ -93,3 +89,4 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,zh.annas-archive.org
 DOMAIN-SUFFIX,docker.com
+
