@@ -275,6 +275,24 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
+# openai
+DOMAIN-SUFFIX,openai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+
 # Xujing
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
@@ -282,7 +300,6 @@ DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,gameloft.com
@@ -302,7 +319,6 @@ DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,xbookcn.net
 DOMAIN-SUFFIX,bocchi.ooo
 DOMAIN-SUFFIX,smallairport-first-sub.top
 DOMAIN-SUFFIX,twitter.com
