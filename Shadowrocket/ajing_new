@@ -732,7 +732,6 @@ IP-CIDR,74.125.0.0/16,PROXY,no-resolve
 IP-CIDR,173.194.0.0/16,PROXY,no-resolve
 
 # ChatGPT
-DOMAIN-KEYWORD,chatgpt,PROXY
 DOMAIN,chatgpt.com,PROXY
 DOMAIN,api.statsig.com,PROXY
 DOMAIN,browser-intake-datadoghq.com,PROXY
