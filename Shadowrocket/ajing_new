@@ -63,6 +63,9 @@ DOMAIN-SUFFIX,openwrt.org,PROXY
 DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,zoom.us,PROXY
 
+# Apple News
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN,news-client-search.apple.com,PROXY
 # Apple Intelligence, Siri
 # https://support.apple.com/en-us/101555
 DOMAIN-SUFFIX,apple-relay.akamaized.net,PROXY
