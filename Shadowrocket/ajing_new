@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,openvpn.net,PROXY
 DOMAIN-SUFFIX,openwrt.org,PROXY
 DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,zoom.us,PROXY
+DOMAIN-SUFFIX,z-library.sk,PROXY
 
 # Apple News
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
