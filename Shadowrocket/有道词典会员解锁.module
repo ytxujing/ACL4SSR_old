@@ -3,9 +3,10 @@
 #!homepage=https://whatshub.top
 #!author=89996462
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ydcd.png
+#!openUrl=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
 
 [Script]
-有道词典=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
+有道词典=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/ytxujing/Jasper/refs/heads/master/Shadowrocket/Script/wyydcd.js?token=GHSAT0AAAAAADR5AXB4DZ5QGQRMCAEPML3K2LG67EA
 
 [MITM]
 hostname = %APPEND% dict.youdao.com
